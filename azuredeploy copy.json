@@ -376,7 +376,7 @@
         "description": "Client ID (used by cloudprovider)"
       },
       "type": "securestring",
-      "defaultValue":"f973e7bd-ec3b-469d-ae84-2f82447cf7f0"
+      "defaultValue":"*************"
       
     },
     "servicePrincipalClientSecret": {
@@ -384,7 +384,7 @@
         "description": "The Service Principal Client Secret."
       },
       "type": "securestring",
-      "defaultValue": "encryptionkey"
+      "defaultValue": "********"
     },
     "sshRSAPublicKey": {
       "metadata": {
